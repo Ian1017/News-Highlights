@@ -38,7 +38,7 @@ sudo apt-get install python3.6
 
 ## Authors
 
-[PurpleBooth](https://github.com/ian1017)
+[Ian Mdawida](https://github.com/ian1017)
 
 
 
